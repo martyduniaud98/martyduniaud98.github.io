@@ -1,0 +1,30 @@
+{
+    "televisions": [
+      {
+        "product_id": "1",
+        "name": "Television Samsung",
+        "description": "55 pouces, 1920x1080",
+        "category": "Category A",
+        "provider": {
+          "name": "provider 1",
+          "contact": "provider1@example.com",
+          "address": "123 Main St, Anytown USA"
+        },
+        "price": 900.00,
+        "quantity": 50
+      },
+      {
+        "product_id": "2",
+        "name": "Television Sony",
+        "description": "60 pouces, 4K",
+        "category": "Category B",
+        "provider": {
+          "name": "provider 2",
+          "contact": "provider2@example.com",
+          "address": "456 Park Ave, Anytown USA"
+        },
+        "price": 1300.00,
+        "quantity": 25
+      }
+    ]
+  }
